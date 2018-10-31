@@ -77,3 +77,9 @@ footer {
     max-width: 100%;
     background-color: dimgrey;
 }
+
+footer li {
+    text-transform: uppercase;
+    color: blueviolet;
+    font-size: 24px;
+}
