@@ -1,0 +1,26 @@
+
+
+@media only screen and (max-width: 1024px) {
+    .container {
+        max-width: 400px;
+        background-color: yellow;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .container {
+        max-width: 100px;
+        background-color: green;
+    }
+
+}
+
+
+
+
+
+
+/*@media screen and (min-width: 480px) and (max-width: 1200px){
+
+}*/
+
