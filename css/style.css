@@ -72,3 +72,8 @@
     background-color: #1f2c39;
 }
 
+footer {
+    height: 400px;
+    max-width: 100%;
+    background-color: dimgrey;
+}
