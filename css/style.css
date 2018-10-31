@@ -66,4 +66,9 @@
     /*margin-top: 25px;*/
 }
 
+.new_block {
+    width: 100px;
+    height: 100px;
+    background-color: #1f2c39;
+}
 
